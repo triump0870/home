@@ -1,14 +1,16 @@
 /*
-#1 = 35A49C
+#1 = 1E2BB2
 #2 = 79CDC0
 */
 a {
 	color: #35A49C;
 }
 a:hover {
+	color: #1E2BB2;
+}
+.company {
 	color: #79CDC0;
 }
-
 /* menu */
 .nav>li>a:hover {
 	color: #79CDC0;
@@ -20,11 +22,11 @@ a:hover {
 
 /* flexslider */
 .flex-control-paging li a {
-	background: #35A49C;
+	background: #1E2BB2;
 }
 
 .flex-direction-nav a:hover{
-	background-color:#35A49C;
+	background-color:#1E2BB2;
 }
 
 .testimonial span.author a {
@@ -33,18 +35,18 @@ a:hover {
 
 /* --- icon box hover --- */
 .hi-icon-effect-5 .hi-icon {
-	color: #35A49C;
-	box-shadow: 0 0 0 4px #35A49C;
+	color: #1E2BB2;
+	box-shadow: 0 0 0 4px #1E2BB2;
 }
 .no-touch .hi-icon-effect-5 .hi-icon:hover {
-	background: #35A49C;
+	background: #1E2BB2;
 	box-shadow: 0 0 0 8px  #79CDC0;
 }
 
 
 /* portfolio */
 .portfolio-item .portfolio-desc {
-	background: #35A49C;
+	background: #1E2BB2;
 }
 
 /* btn */
@@ -52,20 +54,20 @@ a:hover {
   background: #79CDC0;
 }
 .btn-theme:hover,.btn-theme:focus,.btn-theme:active{
-  background: #35A49C;
+  background: #1E2BB2;
 }
 .btn-cta,.btn-cta.btn-lg {
-  background: #35A49C;
+  background: #1E2BB2;
   border-color: #79CDC0;
 }
 
 .btn-cta:focus,.btn-cta:active{
-   border-color: #35A49C;
+   border-color: #1E2BB2;
 }
 
 /* contact */
 .validation {
-	color:#35A49C;
+	color:#1E2BB2;
 }
 
 /* footer */
@@ -74,5 +76,5 @@ a:hover {
 }
 
 a.scrollup{
-	background:#35A49C;
+	background:#1E2BB2;
 }
